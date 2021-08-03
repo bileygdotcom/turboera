@@ -1,0 +1,10 @@
+# BODY
+1
+# WHEELS
+3
+# ENGINE
+3
+# SPRINGS
+3
+# SHOCKERS
+3
