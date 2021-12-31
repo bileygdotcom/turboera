@@ -1,6 +1,5 @@
 # TODO
- - Event selector;
- - Add bots protocols;
+ - Event and garage limiter;
+ - Bots protocols & scenarios for 16 events;
  - Finish all the menu screens;
- - Fix T-race end bug;
  - Add trackside objects;
