@@ -1,5 +1,5 @@
 #TYPE
-T
+S
 #LAP_Q
 1
 #TIME
