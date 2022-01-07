@@ -3,7 +3,7 @@ T
 #LAP_Q
 1
 #TIME
-2:00.00
+3600
 #SPEED
 0
 #PLACE
@@ -31,7 +31,7 @@ T
 #CAR1_TL_Shoc
 4
 #CAR1_BOT
-T
+F
 #CAR1_PR
 0
 #CAR1_PRO
@@ -94,7 +94,7 @@ T
 #CAR4_TL_Shoc
 4
 #CAR4_BOT
-F
+T
 #CAR4_PR
 0
 #CAR4_PRO

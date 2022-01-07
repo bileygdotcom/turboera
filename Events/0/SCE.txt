@@ -3,7 +3,7 @@ S
 #LAP_Q
 1
 #TIME
-999:00.00
+3600
 #SPEED
 0
 #PLACE
@@ -17,7 +17,7 @@ S
 #CARSETS
 #################
 #CAR1_NAME
-c_1
+c_4
 #CAR1_ACT
 T
 #CAR1_TL_Body
@@ -27,11 +27,11 @@ T
 #CAR1_TL_Engi
 4
 #CAR1_TL_Spri
-0
+4
 #CAR1_TL_Shoc
-0
+4
 #CAR1_BOT
-T
+F
 #CAR1_PR
 0
 #CAR1_PRO
@@ -40,7 +40,7 @@ T
 #CAR2_NAME
 c_2
 #CAR2_ACT
-T
+F
 #CAR2_TL_Body
 0
 #CAR2_TL_Whee
@@ -61,7 +61,7 @@ T
 #CAR3_NAME
 c_3
 #CAR3_ACT
-T
+F
 #CAR3_TL_Body
 0
 #CAR3_TL_Whee

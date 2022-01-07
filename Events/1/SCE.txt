@@ -3,7 +3,7 @@ S
 #LAP_Q
 1
 #TIME
-99:00.00
+3600
 #SPEED
 0
 #PLACE
