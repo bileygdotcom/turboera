@@ -25,11 +25,11 @@ T
 #CAR1_TL_Whee
 0
 #CAR1_TL_Engi
-4
+0
 #CAR1_TL_Spri
-4
+0
 #CAR1_TL_Shoc
-4
+0
 #CAR1_BOT
 F
 #CAR1_PR
