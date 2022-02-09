@@ -23,9 +23,9 @@ T
 #CAR1_TL_Body
 0
 #CAR1_TL_Whee
-2
+1
 #CAR1_TL_Engi
-2
+3
 #CAR1_TL_Spri
 2
 #CAR1_TL_Shoc
@@ -44,7 +44,7 @@ T
 #CAR2_TL_Body
 0
 #CAR2_TL_Whee
-2
+0
 #CAR2_TL_Engi
 2
 #CAR2_TL_Spri
@@ -65,7 +65,7 @@ T
 #CAR3_TL_Body
 0
 #CAR3_TL_Whee
-2
+0
 #CAR3_TL_Engi
 2
 #CAR3_TL_Spri
@@ -86,7 +86,7 @@ T
 #CAR4_TL_Body
 0
 #CAR4_TL_Whee
-2
+0
 #CAR4_TL_Engi
 2
 #CAR4_TL_Spri
