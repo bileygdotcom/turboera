@@ -1,4 +1,4 @@
 # TODO
- - Bots protocols & scenarios for 16 events;
- - Finish all the menu screens;
- - Add trackside objects;
+ - Fix replay system;
+ - Add music;
+ - Edit all the menu screens;
