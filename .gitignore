@@ -25,3 +25,11 @@ turboera_46.blend
 /swscale-4.dll
 /turboera.exe
 /vcomp120.dll
+
+Events/
+
+*.blend11
+
+XZ_Cars/garageslot
+
+XZ_Cars/selectedcar
